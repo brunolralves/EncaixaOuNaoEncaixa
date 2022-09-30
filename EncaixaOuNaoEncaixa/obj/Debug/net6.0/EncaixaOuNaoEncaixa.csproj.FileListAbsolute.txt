@@ -1,0 +1,15 @@
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\bin\Debug\net6.0\EncaixaOuNaoEncaixa.exe
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\bin\Debug\net6.0\EncaixaOuNaoEncaixa.deps.json
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\bin\Debug\net6.0\EncaixaOuNaoEncaixa.runtimeconfig.json
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\bin\Debug\net6.0\EncaixaOuNaoEncaixa.dll
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\bin\Debug\net6.0\EncaixaOuNaoEncaixa.pdb
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.csproj.AssemblyReference.cache
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.AssemblyInfoInputs.cache
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.AssemblyInfo.cs
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.csproj.CoreCompileInputs.cache
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.dll
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\refint\EncaixaOuNaoEncaixa.dll
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.pdb
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\EncaixaOuNaoEncaixa.genruntimeconfig.cache
+C:\DEV\VS\DIO\EncaixaOuNaoEncaixa\EncaixaOuNaoEncaixa\obj\Debug\net6.0\ref\EncaixaOuNaoEncaixa.dll
